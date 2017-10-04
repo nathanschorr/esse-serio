@@ -15,16 +15,16 @@ public class TesteProfessor {
 	 ProfessorBolsista prof3 = new ProfessorBolsista();
 	 
 	 prof1.setMatricula(1);
-	 prof1.setNome("Alberto");
+	 prof1.setNome("João");
 	 prof1.setSalario(3000);
 	 
 	 prof2.setMatricula(2);
-	 prof2.setNome("Bianca");
+	 prof2.setNome("Kleber");
 	 prof2.setValorHora(50);
 	 prof2.setNumHoras(20);
 
 	 prof3.setMatricula(3);
-	 prof3.setNome("Joana");
+	 prof3.setNome("Damiao");
 	 prof3.setValorBolsa(100);
 	 
 	 
